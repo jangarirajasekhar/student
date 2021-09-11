@@ -11,6 +11,7 @@ public class basic {
 	@Test
 	public void man() {
 		System.out.println("hii this is raju");
+		System.out.println("hello iam naidu");
 	}
 
 	@BeforeClass
